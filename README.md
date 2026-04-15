@@ -25,8 +25,8 @@ stone-paper-scissors/
 ### Run the Game
 
 ```bash
-git clone https://github.com/your-username/stone-paper-scissors.git
-cd stone-paper-scissors
+git clone https://github.com/BOT9315/Stone-Paper-Scissors-game-.git
+cd Stone-Paper-Scissors-game-
 python main.py
 ```
 
@@ -93,3 +93,11 @@ Score -> You: 1  Computer: 0
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**BOT9315**
+- GitHub: [@BOT9315](https://github.com/BOT9315)
+- Project: [Stone-Paper-Scissors-game-](https://github.com/BOT9315/Stone-Paper-Scissors-game-)
