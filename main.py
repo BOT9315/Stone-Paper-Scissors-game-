@@ -2,7 +2,6 @@ from utils import run
 
 user_score = 0
 comp_score = 0
-
 while True:
     print("\n--- Welcome to Stone Paper Scissors Game ---")
     print("1. Enter 1 if you want to Play")
