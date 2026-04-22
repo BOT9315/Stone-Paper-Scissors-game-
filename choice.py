@@ -6,7 +6,6 @@ def user_choice():
     print("3. Scissors")
 
     n = input("Enter number: ")
-
     if n == "1":
         return "Stone"
     elif n == "2":
