@@ -1,4 +1,5 @@
-from choice import user_choice, computer_choice
+from choice import user_choice
+from choice import computer_choice
 from logic import check
 
 def run():
