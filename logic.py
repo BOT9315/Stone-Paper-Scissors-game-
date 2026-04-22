@@ -1,4 +1,5 @@
 def check(user, comp):
+    
     if user == comp:
         return "Draw"
 
